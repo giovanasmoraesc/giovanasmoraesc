@@ -7,13 +7,10 @@
 
 <div>
    
-   - 🌱 I’m currently studing high school on **Salesiano - Sorocaba**
-
-   - 📝 I regularly post videos on [www.tiktok.com/@gamedevgi](www.tiktok.com/@gamedevgi)
+   - 🌱 I’m currently studing Game Design on **PUC-Campinas**
 
    - 📫 How to reach me **gimoraescosta@gmail.com**
 
-   - ⚡ I’m interested in **front-end development and IOS development**
 </div>
 
 <div>
